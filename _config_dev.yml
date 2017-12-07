@@ -1,0 +1,15 @@
+# Site Settings
+title: Mzack9999
+email: Mzack9999
+description: >
+  Mzack9999 Infosec
+baseurl: ""
+url: "https://mzack9999.github.io"
+twitter_username: Mzack9999
+github_username:  Mzack9999
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
